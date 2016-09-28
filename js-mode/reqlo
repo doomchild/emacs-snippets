@@ -1,0 +1,4 @@
+# -*- mode: snippet -*-
+#name : Class
+# --
+const $1 = require("lodash/fp/$1");
